@@ -9,26 +9,26 @@ Specifically EndeavourOS. As I continue to learn more about system maintainance 
 
 ## Goals
 
-### cron.hourly
+
+#### cron.hourly
 The jobs for cron.hourly consists of building bash scripts that will help cretae a more efficient workflow with specific tasks. 
 
-####Hourly Scripts 
+##### Hourly Scripts 
     1) Collect Logs from the system
     2) 
 
-### cron.daily 
+#### cron.daily 
 
-#####Daily Scripts
-    These Involve scripts that I will be utitlizing to maintain the entire       system. I am working on developing in order to maximize my workflow. 
-							| Playing ping pong all night long, everything's all neon and hazy. Yeah, she's so in demand. She's sweet as pie but if you break her heart. But down to earth. It's time to face the music I'm no longer your muse. I guess that I forgot I had a choice.
-        1) 
-#### Daily Scripts 
+##### Daily Scripts
+    These involve scripts that I will be utitlizing to maintain the entire       system. I am working on developing in order to maximize my workflow. 
+###### Daily Workflows 
 
 ### cron.weekly
 
-#### Weekly Scripts
+##### Weekly Scripts
+###### Weekly Workflows
 
-### cron.monthly 
+#### cron.monthly 
 
 
 ## Tasks
