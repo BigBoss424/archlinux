@@ -1,6 +1,7 @@
 const chalk = require('chalk');
 const pkgUp = require('pkg-up');
-const configLoader = cosmicconfigSync('tool');
+const { cosmicconfigSync } = require('cosmiconfig');
+const configLoader = cosmiconfigSync('tool');
 
 module.exports = function getConfigOriginal(){
 	const pkgPath = pkgUp.sync({cwd: process.cwd()});
