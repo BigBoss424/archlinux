@@ -1,4 +1,4 @@
-const conf = require('conf')
+const conf = new(require('conf'))()
 const chalk = require('chalk')
 
 function add (task) {
@@ -21,6 +21,5 @@ function add (task) {
 	//display message to user
 	console.log(chalk.green.bold('Task has been added!'))
 }//end function
-
 
 module.exports = add

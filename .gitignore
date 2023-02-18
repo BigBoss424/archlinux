@@ -1,3 +1,38 @@
+#ignore nodejs modules
+cli-tools/nodejs/cm-cli/node_modules
+cli-tools/nodejs/todo-cli/node_modules
+cli-tools/nodejs/tool-tutorial/node_modules
+cli-tools/nodejs/tool-tutorial/tool/node_modules
+cli-tools/nodejs/tool-tutorial/testProject/node_modules
+
+
+#ignore package.json files
+cli-tools/nodejs/cm-cli/package.json
+cli-tools/nodejs/tool-tutorial/package.json
+cli-tools/nodejs/tool-tutorial/v1/package.json
+cli-tools/nodejs/tool-tutorial/tool/package.json
+cli-tools/nodejs/tool-tutorial/testProject/package.json
+cli-tools/nodejs/todo-cli/package.json
+
+
+#ignore package-lock.json files
+cli-tools/nodejs/cm-cli/package-lock.json
+cli-tools/nodejs/tool-tutorial/package-lock.json
+cli-tools/nodejs/tool-tutorial/tool/package-lock.json
+cli-tools/nodejs/tool-tutorial/tool/v1/package-lock.json
+cli-tools/nodejs/tool-tutorial/testProject/package-lock.json
+cli-tools/nodejs/todo-cli/package-lock.json
+
+#ignore
+#ignore
+#ignore
+#ignore
+
+
+
+
+
+
 #ignore ALL firebase directories
 cogswebdevelopmentandhosting.com/.firebase
 
